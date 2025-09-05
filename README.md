@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Take a peek :)</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Ashwinee <br><br>- 📚 I'm currently learning Bachelors in Computer Science Engineering<br>- ⚡ In my free time I read non-fiction books and watch some anime</p>
+<p align="left">I'm Ashwinee <br><br>I wander through code and ideas, curious more than certain, learning as I go <br>Mostly, I’m here for the fun, not the studying </p>
 
 ###
 
